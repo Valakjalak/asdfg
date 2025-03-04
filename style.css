@@ -23,14 +23,10 @@ body {
   
   transform: rotateZ(-5deg);
   box-shadow: 1px 15px 20px 0px rgba(0,0,0,0.5);
- 
-}
-
-.paper {
-  position: absolute; /* or relative */
+  
+  position: absolute;
   touch-action: none;
 }
-
 
 .paper.heart {
   position: relative;
